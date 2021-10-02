@@ -28,6 +28,29 @@
   color: #61dafb;
 }
 
+.background-color {
+  color: rgb(255, 174, 0);
+}
+
+.large {
+  font-size: 3rem;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+.text-primary {
+  color: var(--primary-color);
+}
+
+.lead {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.form .form-group {
+  margin: 1.2rem 0;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
